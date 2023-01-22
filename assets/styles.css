@@ -136,6 +136,11 @@ a{
     margin-top: 3rem;
 }
 
+.nav__toggle{
+    color: var(--white);
+    font-size: 2rem;
+}
+
 .button__menu{
     color: var(--very-dark-desaturated-blue);
     background-color: var(--yellow-color);
